@@ -18,4 +18,5 @@ frmAlumnos.addEventListener("submit", e =>{
         </div>
         `;
     });
+    
 });
